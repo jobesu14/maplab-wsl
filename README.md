@@ -9,20 +9,20 @@ https://www.microsoft.com/store/productId/9PJN388HP8C9
 ### Pull this repo
 
 Open wsl and clone this repo
-```git clone https://github.com/jobesu14/maplab-wsl.git```
+```git clone https://github.com/jobesu14/setup-maplab-wsl.git```
 
 ### Install ROS + maplab
 
 ```
-chomd +x /maplab-wsl/install-maplab.sh
-./maplab-wsl/install-maplab.sh
+chomd +x /setup-maplab-wsl/setup-install-maplab.sh
+./setup-maplab-wsl/install-maplab.sh
 ```
 
 ### Install Kalibr
 
 ```
-chomd +x /maplab-wsl/install-kalibr.sh
-./maplab-wsl/install-kalibr.sh
+chomd +x /setup-maplab-wsl/install-kalibr.sh
+./setup-maplab-wsl/install-kalibr.sh
 ```
 
 ### Install Xming server for Windows
