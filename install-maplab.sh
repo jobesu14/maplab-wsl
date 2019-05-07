@@ -1,3 +1,5 @@
+#!/bin/bash
+
 # Install ROS 
 export UBUNTU_VERSION=xenial #(Ubuntu 16.04: xenial, Ubuntu 14.04: trusty, Ubuntu 18.04: bionic)
 export ROS_VERSION=kinetic #(Ubuntu 16.04: kinetic, Ubuntu 14.04: indigo, Ubuntu 18.04: melodic)
