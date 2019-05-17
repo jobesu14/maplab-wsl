@@ -14,15 +14,15 @@ Open wsl and clone this repo
 ### Install ROS + maplab
 
 ```
-chmod +x /setup-maplab-wsl/setup-install-maplab.sh
-./setup-maplab-wsl/install-maplab.sh
+chmod +x ~/setup-maplab-wsl/setup-install-maplab.sh
+~/setup-maplab-wsl/install-maplab.sh
 ```
 
 ### Install Kalibr
 
 ```
-chmod +x /setup-maplab-wsl/install-kalibr.sh
-./setup-maplab-wsl/install-kalibr.sh
+chmod +x ~/setup-maplab-wsl/install-kalibr.sh
+~/setup-maplab-wsl/install-kalibr.sh
 ```
 
 ### Install Xming server for Windows
