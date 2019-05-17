@@ -14,14 +14,14 @@ Open wsl and clone this repo
 ### Install ROS + maplab
 
 ```
-chomd +x /setup-maplab-wsl/setup-install-maplab.sh
+chmod +x /setup-maplab-wsl/setup-install-maplab.sh
 ./setup-maplab-wsl/install-maplab.sh
 ```
 
 ### Install Kalibr
 
 ```
-chomd +x /setup-maplab-wsl/install-kalibr.sh
+chmod +x /setup-maplab-wsl/install-kalibr.sh
 ./setup-maplab-wsl/install-kalibr.sh
 ```
 
